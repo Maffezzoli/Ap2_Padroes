@@ -8,6 +8,8 @@ O Template Method é um padrão comportamental que define o esqueleto de um algo
 - Rodrigo Lima
 - Daniel Maffezzoli
 
+📊 Slides da Apresentação
+Visualizar Slides no Canva
 
 ## 🛠️ Tecnologias Utilizadas
 - Python
