@@ -1,5 +1,3 @@
-Aqui está uma versão mais formal do documento sobre o padrão Template Method:
-
 # Template Method: Padrão Comportamental de Projeto de Software
 
 ## 1. Definição e Propósito
