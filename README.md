@@ -5,7 +5,7 @@
 O Template Method é um padrão comportamental que define o esqueleto de um algoritmo na superclasse, permitindo que subclasses substituam etapas específicas sem alterar a estrutura geral do algoritmo.
 
 ## 👥 Autores
-- Rodrigo Lima
+- Ricardo Lima
 - Daniel Maffezzoli
 
 ## 📊 Slides da Apresentação
